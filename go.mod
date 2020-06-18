@@ -1,9 +1,9 @@
-module github.com/federicoleon/bookstore_oauth-go
+module github.com/manishsinghbisht/bookstore_oauth-go
 
 go 1.14
 
 require (
-	github.com/federicoleon/bookstore_utils-go v0.0.0-20191115214654-f8b94f132ebf
+	github.com/manishsinghbisht/utils-go v0.0.0-20200618104449-66ef4b9d3998
 	github.com/mercadolibre/golang-restclient v0.0.0-20170701022150-51958130a0a0
 	github.com/stretchr/testify v1.5.1
 )
